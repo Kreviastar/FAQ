@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "worksan";
+  src: url(../assets/fonts/static/WorkSans-Bold.ttf);
+}
+@font-face {
+  font-family: "worksans";
+  src: url(../assets/fonts/static/WorkSans-Regular.ttf);
+}
+body{
+  font-family: "worksan";
+}
